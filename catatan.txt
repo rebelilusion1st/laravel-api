@@ -1,0 +1,1 @@
+Ini adalah Tugas Laravel API, yang dimana saya mengambil data API quote Anime secara random.
